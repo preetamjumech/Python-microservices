@@ -19,4 +19,6 @@ CI/CD MLOps series
 `touch Makefile`, `touch Dockerfile`, `touch requirements.txt`, `touch main.py`
 
 3. Populate Makefile
+`make install`
 
+`pip freeze | less`
