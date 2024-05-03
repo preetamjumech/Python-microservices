@@ -7,4 +7,4 @@ CI/CD MLOps series
 3. source code
 4. test file
 5. docker file
-6. [IAC - Infrastructure as Code] // configuration file
+6. [IAC - Infrastructure as Code] // Configuration file
