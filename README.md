@@ -9,9 +9,10 @@ CI/CD MLOps series
 5. docker file
 6. [IAC - Infrastructure as Code] // Configuration file
 
+## steps
 1. create virtual environment `python3 -m venv ~/.venv` or `virtualenv ~/.venv`
 vim ~/.bashrc
-# sourcing virtual env
+//edit the file # sourcing virtual env
 source ~/.venv/bin/activate
 
 2. create empty files
