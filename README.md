@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/preetamjumech/Python-microservices/actions/workflows/mlops.yml/badge.svg)](https://github.com/preetamjumech/Python-microservices/actions/workflows/mlops.yml)
+
+
 # Python-microservices
 CI/CD MLOps series
 
