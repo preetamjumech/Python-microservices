@@ -25,3 +25,8 @@ CI/CD MLOps series
 `make install`
 
 `pip freeze | less`
+
+4. Set up Continuous Integration by formatting, testing, linting
+
+5. Build cli using Python Fire
+shebang line command `#!/usr/bin/env python` at top, `chmod +x cli-0fire.py` at terminal  also check `./cli-fire.py --help`
