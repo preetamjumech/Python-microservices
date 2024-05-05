@@ -25,3 +25,5 @@ CI/CD MLOps series
 `make install`
 
 `pip freeze | less`
+
+![image](https://github.com/preetamjumech/Python-microservices/assets/82079602/3ccab2d0-1fed-403a-845a-1b6f10018115)
