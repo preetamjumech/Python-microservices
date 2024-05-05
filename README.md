@@ -25,6 +25,3 @@ CI/CD MLOps series
 `make install`
 
 `pip freeze | less`
-
-4. Setup Continuous Integration i.e. check code for issues like lint errors
-
