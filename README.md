@@ -30,3 +30,9 @@ CI/CD MLOps series
 
 5. Build cli using Python Fire
 shebang line command `#!/usr/bin/env python` at top, `chmod +x cli-0fire.py` at terminal  also check `./cli-fire.py --help`
+
+6. docker build
+in docker file FROM `python:3.10.14-slim-bullseye`
+in make file `docker build -t deploy-fastapi .`
+`docker image ls`
+`docker run -p 127.0.0.1:8080:8080 7003da10ad40`
